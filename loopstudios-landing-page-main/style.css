@@ -1,0 +1,15 @@
+
+
+/* aqui se hizo el header y el nav var */
+.header{
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem 5.4rem 0 5.2rem;
+    height: 8rem;
+}
